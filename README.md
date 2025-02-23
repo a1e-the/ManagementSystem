@@ -1,2 +1,3 @@
 # ManagementSystem
 personal project for springboot
+后端基于spring boot，通过mybatis操作mysql数据库，利用阿里云oss存储图像数据，并通过jwt进行登录校验以及AOP进行操作日志记录。
